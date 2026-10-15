@@ -6,7 +6,7 @@ Academic research project developed for the **University of Milan (Università d
 
 ## Project Overview
 
-Colorectal cancer (CRC) compromises the integrity of the intestinal mucosal barrier, promoting the translocation of bacterial DNA into the bloodstream[cite: 1]. High bacterial load and gut permeability correlate with increased risk of CRC.
+Colorectal cancer (CRC) compromises the integrity of the intestinal mucosal barrier, promoting the translocation of bacterial DNA into the bloodstream. High bacterial load and gut permeability correlate with increased risk of CRC.
 
 Analyzing circulating bacterial DNA presents specific statistical challenges:
 1. **High Sparsity & High Dimensionality:** Thousands of taxa dominated by rare species.
@@ -39,7 +39,7 @@ The clinical datasets analyzed in this project contain sensitive clinical and ge
 
 ## Repository Contents
 
-* `Statistica_Medica.R`: R workflow for data processing, Bayesian mixture fitting via Laplace approximation, differential abundance testing, and hybrid clinical models[cite: 1, 2].
+* `Statistica_Medica.R`: R workflow for data processing, Bayesian mixture fitting via Laplace approximation, differential abundance testing, and hybrid clinical models.
 * `colon.pdf`: Technical documentation detailing the biological rationale, mathematical formulation of DMMs, and statistical findings.
 * `pone.0030126.pdf`: Reference methodology paper (*Holmes et al., 2012*).
 
